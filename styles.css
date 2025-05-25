@@ -35,7 +35,7 @@ body {
 
 .gallery-item:hover {
     transform: scale(1.1); /* Scale to 1.1 as requested */
-    box-shadow: 0 6px 20px rgba(255, 255, 255, 0.4);
+    box-shadow: 0 7px 20px rgba(255, 255, 255, 0.9);
     z-index: 10;
 }
 

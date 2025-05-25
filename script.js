@@ -17,7 +17,7 @@ const mediaFiles = [
     { type: 'video', src: 'media/7.mp4' },
     { type: 'video', src: 'media/8.mp4' },
     { type: 'video', src: 'media/9.mp4' },
-    { type: 'video', src: 'media/10.jpg' },
+    { type: 'video', src: 'media/10.mp4' },
     { type: 'video', src: 'media/11.mp4' },
     { type: 'video', src: 'media/12.mp4' },
     { type: 'video', src: 'media/13.mp4' },
@@ -30,6 +30,8 @@ const mediaFiles = [
     { type: 'video', src: 'media/20.mp4' },
     { type: 'video', src: 'media/21.mp4' },
     { type: 'video', src: 'media/22.mp4' },
+    { type: 'image', src: 'media/23.gif' },
+    { type: 'video', src: 'media/24.mp4' },
     // Add more media items here to test
 ];
 
